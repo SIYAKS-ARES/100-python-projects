@@ -21,7 +21,7 @@ for num in range(nr_symbols + 1):
 for num in range(nr_numbers + 1):
     password_list.append(random.choice(numbers))
 random.shuffle(password_list)
-print(f"Here is your password", end=': ')
+print(f"Here is your password", end=':')
 print(*password_list, sep='')
 '''
 password = ""
