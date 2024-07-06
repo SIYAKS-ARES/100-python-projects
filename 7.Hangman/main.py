@@ -1,8 +1,8 @@
 import random
 
-from hangman_words import word_list
 from hangman_art import logo
 from hangman_art import stages
+from hangman_words import word_list
 
 chosen_word = random.choice(word_list)
 word_length = len(chosen_word)
@@ -41,17 +41,3 @@ while not end_of_game:
         print("You win.")
 
     print(stages[lives])
-
-'''
-# TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
-# Delete this line: word_list = ["ardvark", "baboon", "camel"] ??
-# TODO-3: - Import the logo from hangman_art.py and print it at the start of the game.
-# Testing code
-# print(f'Pssst, the solution is {chosen_word}.')
-# TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know.
-# TODO-5: - If the letter is not in the chosen_word, print out the letter and let them know it's not in the word.
-# TODO-2: - Import the stages from hangman_art.py and make this error go away.
-'''
-
-
-
