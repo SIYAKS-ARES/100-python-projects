@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b02dfe51-2f12-4d55-86fa-bf2b17b5f84b" name="Changes" comment="Password Creator">
+      <change afterPath="$PROJECT_DIR$/.idea/100-python-projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Hangman/hangman_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Hangman/hangman_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.Hangman/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.Password-Creator/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/5.Password-Creator/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SIYAKS-ARES/100-python-projects.git&quot;,
+    &quot;accountId&quot;: &quot;8091e04b-18dd-4162-b9e0-fd4b434a8193&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iXs7N2lLGlsn3gHm4rleRKInnO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/siyaksares/Developer/GitHub/100-python-projects",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b02dfe51-2f12-4d55-86fa-bf2b17b5f84b" name="Changes" comment="" />
+      <created>1719648087704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719648087704</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Basic Coffee Machine Project">
+      <option name="closed" value="true" />
+      <created>1719648294784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719648294784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1719648319348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719648319348</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic Brand Name Generator Project">
+      <option name="closed" value="true" />
+      <created>1719648369076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719648369076</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Basic Coffee Machine Project Finished">
+      <option name="closed" value="true" />
+      <created>1719652395778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719652395778</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Brand Name Generator">
+      <option name="closed" value="true" />
+      <created>1720271289785</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720271289785</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Treasure Island">
+      <option name="closed" value="true" />
+      <created>1720271307968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720271307968</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Rock Paper Scissors">
+      <option name="closed" value="true" />
+      <created>1720271325893</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720271325893</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Password Creator">
+      <option name="closed" value="true" />
+      <created>1720271344923</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720271344923</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Treasure Island">
+      <option name="closed" value="true" />
+      <created>1720271661829</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720271661829</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Coffee Machine">
+      <option name="closed" value="true" />
+      <created>1720271699722</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720271699722</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Password Creator">
+      <option name="closed" value="true" />
+      <created>1720277270021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720277270021</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Coffee Machine OOP">
+      <option name="closed" value="true" />
+      <created>1720277283357</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720277283357</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Password Creator">
+      <option name="closed" value="true" />
+      <created>1720277346681</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720277346681</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Basic Coffee Machine Project" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Basic Brand Name Generator Project" />
+    <MESSAGE value="Basic Coffee Machine Project Finished" />
+    <MESSAGE value="Brand Name Generator" />
+    <MESSAGE value="Rock Paper Scissors" />
+    <MESSAGE value="Treasure Island" />
+    <MESSAGE value="Coffee Machine" />
+    <MESSAGE value="Coffee Machine OOP" />
+    <MESSAGE value="Password Creator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password Creator" />
+  </component>
+</project>
